@@ -1,0 +1,12 @@
+# Assignment 02.7
+#Juan L Meza Roman 
+#This is my second calculator
+
+area = int(input('Enter height of trapezoid:'))
+bbase= int(input('Length of bottom base :'))
+tbase= int(input('Length of top base :'))
+
+
+print(height)
+print(bbase)
+print(tbase)
